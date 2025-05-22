@@ -133,8 +133,8 @@
   <tr>
     <td>법원에 납부한 경매보증금 및 경락대금에서 발생한 이자소득</td>
     <td>14%</td>
-    <td rowspan="4" style="background:#fff8e1; color:#e67c23; font-weight:bold; text-align:center; vertical-align:middle;">
-      분리과세 세율
+    <td rowspan="4" style="color:#e67c23; font-weight:bold; text-align:center; vertical-align:middle; background:#fff8e1;">
+      분리과세<br>세율
     </td>
   </tr>
   <tr>
@@ -152,6 +152,8 @@
   <tr>
     <td>비영업대금의 이익</td>
     <td>25%</td>
-    <td style="color:#1565c0; font-weight:bold; text-align:center;">조건부종합과세</td>
+    <td style="color:#1565c0; font-weight:bold; text-align:center; background:#e3f2fd;">
+      조건부<br>종합과세
+    </td>
   </tr>
 </table>
