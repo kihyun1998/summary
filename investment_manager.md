@@ -113,7 +113,7 @@
 
 ### 금융소득에 대한 원천징세율
 
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse:collapse; min-width:600px;">
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse:collapse; min-width:650px;">
   <tr>
     <th>항목</th>
     <th>원천징수세율</th>
@@ -122,20 +122,17 @@
   <tr>
     <td>(분리과세를 신청한) 장기채권의 이자와 할인액</td>
     <td style="color:#e67c23; font-weight:bold;">30%</td>
-    <td rowspan="2" style="color:#e67c23; font-weight:bold; text-align:center; vertical-align:middle;">
-      무조건<br>분리과세
+    <td rowspan="5" style="color:#e67c23; font-weight:bold; text-align:center; vertical-align:middle;">
+      무조건 분리과세<br>/ 분리과세 세율
     </td>
   </tr>
   <tr>
     <td>직장공제회 초과반환금</td>
-    <td style="color:#e67c23; font-weight:bold;">기본세율<br>(6~45%)</td>
+    <td style="color:#e67c23;">기본세율<br>(6~45%)</td>
   </tr>
   <tr>
     <td>법원에 납부한 경매보증금 및 경락대금에서 발생한 이자소득</td>
     <td>14%</td>
-    <td rowspan="4" style="color:#e67c23; font-weight:bold; text-align:center; vertical-align:middle; background:#fff8e1;">
-      분리과세<br>세율
-    </td>
   </tr>
   <tr>
     <td>비실명거래로 인한 이자·배당소득</td>
@@ -146,14 +143,14 @@
     <td>9%</td>
   </tr>
   <tr>
-    <td>그 밖의 이자소득 또는 배당소득</td>
-    <td>14%</td>
-  </tr>
-  <tr>
     <td>비영업대금의 이익</td>
     <td>25%</td>
-    <td style="color:#1565c0; font-weight:bold; text-align:center; background:#e3f2fd;">
-      조건부<br>종합과세
+    <td rowspan="2" style="color:#1565c0; font-weight:bold; text-align:center;">
+      조건부 종합과세
     </td>
+  </tr>
+  <tr>
+    <td>그 밖의 이자소득 또는 배당소득</td>
+    <td>14%</td>
   </tr>
 </table>
