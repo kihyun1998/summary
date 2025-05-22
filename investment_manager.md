@@ -45,20 +45,20 @@
 <table border="1" cellspacing="0" cellpadding="8">
   <tr>
     <th>이의신청</th>
-    <th colspan="2">심사청구</th>
+    <th>심사청구</th>
     <th>심판청구</th>
   </tr>
   <tr>
-    <td colspan="3" align="center">그 처분을 안 날로부터 <span style="color:red;">90일 이내에</span></td>
+    <td colspan="3" align="center">그 처분을 안 날로부터 90일 이내에</td>
   </tr>
   <tr>
     <td>관할청에 제기</td>
-    <td colspan="2">국세청에 제기<br>(또는 감사원)</td>
+    <td>국세청에 제기<br>(또는 감사원)</td>
     <td>조세심판원에 제기</td>
   </tr>
   <tr>
     <td>생략가능</td>
-    <td colspan="3">행정소송을 위해서는 둘 중에 하나를 반드시 거쳐야 함</td>
+    <td colspan="2">행정소송을 위해서는 둘 중에 하나를 반드시 거쳐야 함</td>
   </tr>
 </table>
 
