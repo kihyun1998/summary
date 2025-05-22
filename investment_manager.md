@@ -113,54 +113,45 @@
 
 ### 금융소득에 대한 원천징세율
 
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse:collapse;">
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse:collapse; min-width:600px;">
   <tr>
     <th>항목</th>
     <th>원천징수세율</th>
     <th>비고</th>
   </tr>
   <tr>
-    <td colspan="3" align="center" style="background:#FFF8E1; color:#E67C23; font-weight:bold;">
-      <span style="font-size:1.1em;">【분리과세 대상】</span>
+    <td>(분리과세를 신청한) 장기채권의 이자와 할인액</td>
+    <td style="color:#e67c23; font-weight:bold;">30%</td>
+    <td rowspan="2" style="color:#e67c23; font-weight:bold; text-align:center; vertical-align:middle;">
+      무조건<br>분리과세
     </td>
   </tr>
   <tr>
-    <td>(분리과세를 신청한) 장기채권의 이자와 할인액</td>
-    <td>30%</td>
-    <td rowspan="2" style="color:#E67C23; font-weight:bold; text-align:center; vertical-align:middle;">무조건<br>분리과세</td>
-  </tr>
-  <tr>
     <td>직장공제회 초과반환금</td>
-    <td style="color:#E67C23;">기본세율<br>(6~45%)</td>
+    <td style="color:#e67c23; font-weight:bold;">기본세율<br>(6~45%)</td>
   </tr>
   <tr>
     <td>법원에 납부한 경매보증금 및 경락대금에서 발생한 이자소득</td>
     <td>14%</td>
-    <td></td>
+    <td rowspan="4" style="background:#fff8e1; color:#e67c23; font-weight:bold; text-align:center; vertical-align:middle;">
+      분리과세 세율
+    </td>
   </tr>
   <tr>
     <td>비실명거래로 인한 이자·배당소득</td>
     <td>45% 또는 90%</td>
-    <td></td>
   </tr>
   <tr>
     <td>ISA 비과세한도를 초과하는 이자·배당소득</td>
     <td>9%</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="background:#E3F2FD; color:#1976D2; font-weight:bold;">
-      <span style="font-size:1.1em;">【조건부종합과세 대상】</span>
-    </td>
-  </tr>
-  <tr>
-    <td>비영업대금의 이익</td>
-    <td>25%</td>
-    <td style="color:#1976D2; font-weight:bold; text-align:center;">조건부종합과세</td>
   </tr>
   <tr>
     <td>그 밖의 이자소득 또는 배당소득</td>
     <td>14%</td>
-    <td></td>
+  </tr>
+  <tr>
+    <td>비영업대금의 이익</td>
+    <td>25%</td>
+    <td style="color:#1565c0; font-weight:bold; text-align:center;">조건부종합과세</td>
   </tr>
 </table>
