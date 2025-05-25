@@ -97,17 +97,12 @@
     <tr>
       <td><strong>비영업대금의 이익</strong></td>
       <td><strong>25%</strong></td>
-      <td><strong>조건부종합과세</strong></td>
+      <td rowspan="2"><strong>조건부종합과세</strong></td>
     </tr>
     <tr>
       <td>그 밖의 이자소득 또는 배당소득</td>
       <td>14%</td>
-      <td></td>
     </tr>
   </tbody>
 </table>
-
-<p style="margin-top: 10px;">
-  ※ ‘무조건분리과세’ 대상이 아니면 ‘조건부종합과세’ 대상이 된다.
-</p>
 
