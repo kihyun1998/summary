@@ -64,93 +64,53 @@
 
 ### 배당소득 수입시기(귀속 연도)
 
-<table border="1" cellspacing="0" cellpadding="8">
-  <tr>
-    <th>배당소득 종류</th>
-    <th>수입시기(귀속시기)</th>
-  </tr>
-  <tr>
-    <td rowspan="2">이익배당</td>
-    <td>
-      <b>잉여금처분 배당</b><br>
-      &bull; 당해 법인의 잉여금처분 결의일
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>무기명주식 배당</b><br>
-      &bull; 실제 지급을 받은 날
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="5">의제배당</td>
-    <td><b>감자, 퇴사, 탈퇴</b> : 감자결의일, 퇴사일, 탈퇴일</td>
-  </tr>
-  <tr>
-    <td><b>해산</b> : 잔여재산가액 확정일</td>
-  </tr>
-  <tr>
-    <td><b>합병</b> : 합병등기일</td>
-  </tr>
-  <tr>
-    <td><b>분할, 분할합병</b> : 분할등기일 또는 분할합병등기일</td>
-  </tr>
-  <tr>
-    <td><b>잉여금의 자본전입</b> : 자본전입 결의일</td>
-  </tr>
-  <tr>
-    <td>인정배당</td>
-    <td><b>당해 법인의 당해 사업연도의 결산확정일</b></td>
-  </tr>
-  <tr>
-    <td>집합투자기구로부터의 이익</td>
-    <td>
-      &bull; 집합투자기구로부터의 이익을 지급받은 날<br>
-      &bull; 원본전입 특약이 있는 경우 그 특약에 의한 원본 전입일
-    </td>
-  </tr>
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>항 목</th>
+      <th>원천징수세율</th>
+      <th>비 고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>(분리과세를 신청함) 장기채권의 이자와 할인액</td>
+      <td>30%</td>
+      <td>무조건 분리과세</td>
+    </tr>
+    <tr>
+      <td>직장공제회 초과반환금</td>
+      <td>기본세율 (6~45%)</td>
+      <td>무조건 분리과세</td>
+    </tr>
+    <tr>
+      <td>법원에 납부한 경매보증금 및 경락대금에서 발생한 이자소득</td>
+      <td>14%</td>
+      <td>무조건 분리과세</td>
+    </tr>
+    <tr>
+      <td>비실명거래로 인한 이자ㆍ배당소득</td>
+      <td>45% 또는 90%</td>
+      <td>무조건 분리과세</td>
+    </tr>
+    <tr>
+      <td>ISA 비과세한도를 초과하는 이자ㆍ배당소득</td>
+      <td>9%</td>
+      <td>무조건 분리과세</td>
+    </tr>
+    <tr>
+      <td><strong>비영업대금의 이익</strong></td>
+      <td><strong>25%</strong></td>
+      <td><strong>조건부종합과세</strong></td>
+    </tr>
+    <tr>
+      <td>그 밖의 이자소득 또는 배당소득</td>
+      <td>14%</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
-### 금융소득에 대한 원천징세율
-
-<table border="1" cellspacing="0" cellpadding="8" style="border-collapse:collapse; min-width:650px;">
-  <tr>
-    <th>항목</th>
-    <th>원천징수세율</th>
-    <th>비고</th>
-  </tr>
-  <tr>
-    <td>(분리과세를 신청한) 장기채권의 이자와 할인액</td>
-    <td style="color:#e67c23; font-weight:bold;">30%</td>
-    <td rowspan="5" style="color:#e67c23; font-weight:bold; text-align:center; vertical-align:middle;">
-      무조건 분리과세<br>/ 분리과세 세율
-    </td>
-  </tr>
-  <tr>
-    <td>직장공제회 초과반환금</td>
-    <td style="color:#e67c23;">기본세율<br>(6~45%)</td>
-  </tr>
-  <tr>
-    <td>법원에 납부한 경매보증금 및 경락대금에서 발생한 이자소득</td>
-    <td>14%</td>
-  </tr>
-  <tr>
-    <td>비실명거래로 인한 이자·배당소득</td>
-    <td>45% 또는 90%</td>
-  </tr>
-  <tr>
-    <td>ISA 비과세한도를 초과하는 이자·배당소득</td>
-    <td>9%</td>
-  </tr>
-  <tr>
-    <td>비영업대금의 이익</td>
-    <td>25%</td>
-    <td rowspan="2" style="color:#1565c0; font-weight:bold; text-align:center;">
-      조건부 종합과세
-    </td>
-  </tr>
-  <tr>
-    <td>그 밖의 이자소득 또는 배당소득</td>
-    <td>14%</td>
-  </tr>
-</table>
+<p style="margin-top: 10px;">
+  ※ ‘무조건분리과세’ 대상이 아니면 ‘조건부종합과세’ 대상이 된다.
+</p>
