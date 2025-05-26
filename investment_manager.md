@@ -280,3 +280,63 @@
     </tr>
   </tbody>
 </table>
+
+### ISA 유형 (운용유형)
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>중개형 ISA</th>
+      <th>신탁형 ISA</th>
+      <th>일임형 ISA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>투자가능상품</td>
+      <td>
+        예금 X, <br><strong>국내상장주식 O</strong><br>
+        펀드, ELS, ETN, 리츠, RP, 회사채 등
+      </td>
+      <td>
+        예금 O, <br><strong>국내상장주식 X</strong><br>
+        펀드, ELS, ETN, 리츠, RP, 회사채 등
+      </td>
+      <td>
+        모델포트폴리오<br>
+        (펀드·ETF 등 포함)
+      </td>
+    </tr>
+    <tr>
+      <td>운용방식</td>
+      <td colspan="2">
+        <strong>투자자가 편입상품을 직접 선택</strong><br>
+        (가입자의 지시 없으면 다른 상품으로 교체 불가)
+      </td>
+      <td>
+        <strong>모델포트폴리오 중<br>하나를 선택해서 운용</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>보수·수수료</td>
+      <td>상품별 수수료</td>
+      <td>신탁보수</td>
+      <td>일임수수료</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+#### 참고사항
+
+- 전 금융기관을 통틀어 **1인 1계좌만 가능**
+- **중개형 / 신탁형 / 일임형 중 한 가지만 가입 가능**
+
+---
+
+#### 예시
+
+- 예) **일반형** → 중개형
+- 예) **서민형** → 신탁형
