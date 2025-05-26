@@ -241,13 +241,11 @@
       </td>
     </tr>
     <tr>
-      <td>비과세한도<br>(통산순이익 기준)</td>
+      <td rowspan="2">비과세한도<br>(통산순이익 기준)</td>
       <td>200만 원</td>
-      <td>400만 원</td>
-      <td>400만 원</td>
+      <td colspan="2">400만 원</td>
     </tr>
     <tr>
-      <td>비과세 초과분</td>
       <td colspan="3">비과세한도 초과분은 우대세율 9.9% 적용</td>
     </tr>
     <tr>
@@ -261,21 +259,22 @@
     <tr>
       <td colspan="4">
         <table border="1" cellspacing="0" cellpadding="5">
-          <tr>
-            <th>예시</th>
-            <th>통산순이익 / 서민형</th>
-            <th>과세여부</th>
-          </tr>
-          <tr>
-            <td>1,000만 원</td>
-            <td>400만 원</td>
-            <td>비과세</td>
-          </tr>
-          <tr>
-            <td></td>
-            <td>600만 원</td>
-            <td>9.9%</td>
-          </tr>
+          <thead>
+            <tr>
+              <th>통산 순이익</th>
+              <th>과세 여부</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>400만 원</td>
+              <td>비과세</td>
+            </tr>
+            <tr>
+              <td>600만 원</td>
+              <td>200만 원 초과분에 대해<br>9.9% 과세</td>
+            </tr>
+          </tbody>
         </table>
       </td>
     </tr>
