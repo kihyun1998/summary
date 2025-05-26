@@ -214,3 +214,70 @@
 
 5. **저평가 재산을 증여한다**  
    - (예: 주식 → 장기침체기 활용)
+
+### 세재혜택 금융상품 ISA
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>일반형</th>
+      <th>서민형</th>
+      <th>농어민형</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>가입자격</td>
+      <td>
+        ① 만 19세 이상 거주자 또는 근로소득이 있는 만 15세~19세 거주자<br>
+        ② 직전 3개년 중 1회 이상 <strong>금융소득종합과세의 대상이 아닌 자</strong>
+      </td>
+      <td>
+        ① 총급여 5천만 원 이하 또는 종합소득 3,800만 원 이하 거주자
+      </td>
+      <td>
+        ① 종합소득 3,800만 원 이하 농어민
+      </td>
+    </tr>
+    <tr>
+      <td>비과세한도<br>(통산순이익 기준)</td>
+      <td>200만 원</td>
+      <td>400만 원</td>
+      <td>400만 원</td>
+    </tr>
+    <tr>
+      <td>비과세 초과분</td>
+      <td colspan="3">비과세한도 초과분은 우대세율 9.9% 적용</td>
+    </tr>
+    <tr>
+      <td>의무가입기간</td>
+      <td colspan="3"><strong>3년</strong> (의무가입기간 충족 시 세제혜택)</td>
+    </tr>
+    <tr>
+      <td>납입한도</td>
+      <td colspan="3">연간 2천만 원, 5년간 최대 1억 원<br>(당해년도 미납입한도는 이월 가능)</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <table border="1" cellspacing="0" cellpadding="5">
+          <tr>
+            <th>예시</th>
+            <th>통산순이익 / 서민형</th>
+            <th>과세여부</th>
+          </tr>
+          <tr>
+            <td>1,000만 원</td>
+            <td>400만 원</td>
+            <td>비과세</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>600만 원</td>
+            <td>9.9%</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
